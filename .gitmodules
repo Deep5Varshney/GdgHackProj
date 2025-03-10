@@ -1,0 +1,3 @@
+[submodule "mediconnect"]
+	path = mediconnect
+	url = https://github.com/Yashika01815/mediconnect.git
